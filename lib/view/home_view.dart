@@ -16,7 +16,7 @@ class HomeView extends StatelessWidget{
       ), // AppBar
 
       body: const Center(
-        child: Text("CAR IV"),
+        child: Text("home view"),
       ),//  Center
   );// Scaffold
   }
